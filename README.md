@@ -11,5 +11,5 @@ This is a repository containing inital code for React Hooks tutorial. Demo appli
 * passing props
 * API calls
 
-## Covered topics:
+## ToDo:
 * Convert this application to functional components using hooks.
