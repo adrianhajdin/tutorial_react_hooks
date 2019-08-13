@@ -6,8 +6,9 @@ This is a repository containing inital code for React Hooks tutorial. Demo appli
 * run npm i && npm start to start the development server
 
 ## Covered topics:
-* state management (with hooks)
-* destructuring
+* why and how to use React Hooks
+* useState and useEffect hooks
+* custom hooks
 * passing props
 * API calls
 
